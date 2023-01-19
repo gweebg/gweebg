@@ -10,8 +10,6 @@
 <h1 align="center">Hello 👋, I'm Guilherme</h1>
 <h3 align="center">A software engineering student at University of Minho.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gweebg&label=Profile%20views&color=0e75b6&style=flat" alt="gweebg" /> </p>
-
 - 🔭 I’m currently working on [Sekai - Multipurpose Personal Manager](https://github.com/gweebg/sekai)
 
 - 🌱 I’m currently learning **SvelteKit, TypeScript**

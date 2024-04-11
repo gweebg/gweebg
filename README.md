@@ -1,2 +1,2 @@
-Hello 👋, I'm Guilherme, a software engineering student at University of Minho in Portugal.
+Hello 👋, I'm Guilherme, a software engineering master's student at University of Minho in Portugal.
 

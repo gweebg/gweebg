@@ -1,2 +1,2 @@
-Hello 👋, I'm Guilherme, a software engineering master's student at University of Minho in Portugal.
+Hello 👋, I'm Guilherme, a software engineering master's graduate, currently working as a Linux System Administrator in Portugal.
 
